@@ -2,7 +2,7 @@
 ## A test repository to get acquainted with GitHub
 ### This is a brief summation of myself
 
-**I am a man that was turned into a potato.**
+I am a man that was turned into a potato.
 *This was caused by a freak accident during a radical science experiment* 
 1. I still have the intelligence of a man
 2. I still have the strength of a man
@@ -16,4 +16,3 @@
 
 'It's all about the bacon and the sparrows . . God looks out for the guy in the chair, Rick'
 
-==That's all folks==
