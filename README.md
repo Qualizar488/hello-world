@@ -14,6 +14,6 @@
 
 ---
 
-'It's all about the bacon and the sparrows now . . . God looks out for the guy in the chair, Rick'
+'It's all about the bacon and the sparrows . . God looks out for the guy in the chair, Rick'
 
 ==That's all folks==
